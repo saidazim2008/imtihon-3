@@ -1,0 +1,15 @@
+@media (max-width:450px) {
+    .contacts {
+        width: 400px;
+    }
+    .search-list {
+        width: 100%;
+    }
+    .chat-section {
+        display: none;
+    }   
+    .users-list {
+        width: 100%;
+        border: none;
+    }
+}
